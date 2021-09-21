@@ -36,8 +36,8 @@ instance_size = {
   Development = "t2.micro"
   UAT         = "t2.micro"
   Production  = "t2.micro"
-  #UAT = "t2.small"
-  # Production = "t2.medium"
+  #UAT = "t2.micro"
+  # Production = "t2.micro"
 }
 
 subnet_count = {
