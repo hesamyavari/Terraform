@@ -1,8 +1,8 @@
 
-terraform code for manage cloud Infrastructure 
+Terraform code for manage cloud Infrastructure 
 # Terraform
 
-terraform code for create 2 instance and one load balancer
+Terraform code for create 2 instance and one load balancer
 
 ## Installation
 
