@@ -6,8 +6,8 @@ terraform code for create 2 instance and one load balancer
 
 ## Installation
 
-Install terraform [teraform](https://www.terraform.io/downloads.html/) to install terraform.
-clone repository https://github.com/hesamyavari/Terraform.git
+Install terraform [teraform](https://www.terraform.io/downloads.html/) to install terraform./n
+clone repository https://github.com/hesamyavari/Terraform.git/n
 go to Terraform directory and run bash command :
 
 ```bash
@@ -26,8 +26,8 @@ terraform plan -out plan.out
 # lunch plan to deploy infra
 terraform apply -out plan.out
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# show terraform state 
+terraform state show
 ```
 
 ## Contributing
@@ -36,4 +36,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[apache2](https://choosealicense.com/licenses/apache-2.0/)
